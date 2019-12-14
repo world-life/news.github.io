@@ -6,7 +6,7 @@ email: zhihunews@outlook.com
 description: "Hi"
 keyword: "智乎"
 url: "https://zhihu.news"          # your host, for absolute URL
-baseurl: "https://zhihu.news"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/jinhuadao/jinhuadao.github.io.git" # you code repository
 
 # Sidebar settings
