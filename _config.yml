@@ -1,9 +1,9 @@
 # Site settings
 title: 值乎
-SEOTitle: 值乎
+SEOTitle: 值乎：只有有价值的信息
 header-img: img/post-bg-desk.jpg
 email: zhihunews@outlook.com
-description: "About You"
+description: "有价值的信息"
 keyword: "新闻"
 url: "https://zhihu.news"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
