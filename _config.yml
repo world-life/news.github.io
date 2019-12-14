@@ -3,10 +3,10 @@ title: 智乎
 SEOTitle: 智乎
 header-img: img/post-bg-universe.jpg
 email: zhihunews@outlook.com
-description: "有价值的信息"
+description: "Hi"
 keyword: "智乎"
 url: "https://zhihu.news"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://zhihu.news"      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/jinhuadao/jinhuadao.github.io.git" # you code repository
 
 # Sidebar settings
