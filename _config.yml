@@ -110,8 +110,5 @@ friends: [
     },{
         title: "多吉搜索",
         href: "https://www.dogedoge.com/"
-    },{
-        title: "哈佛商业评论",
-        href: "https://www.hbrchina.org/"
-    },
+    }
 ]
