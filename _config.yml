@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "卓越进化岛",
-        href: "https://mp.weixin.qq.com/s/BIsoHB7wT_e38kzngAPKQQ"
+        title: "看美剧",
+        href: "http://yyetss.com/"
     },{
-        title: "读书舍",
-        href: "https://mp.weixin.qq.com/s/e4bdeS2hIkXBEaom-IcCWQ"
+        title: "豆瓣",
+        href: "https://www.douban.com/"
     },{
-        title: "大学生成长",
-        href: "https://mp.weixin.qq.com/s/Ep5RQZHYi5g6ILQk6Z5Llw"
+        title: "知乎热榜",
+        href: "https://www.zhihu.com/hot"
     },{
-        title: "中科院读书舍",
-        href: "https://mp.weixin.qq.com/s/4UZwPVb2uyME9Pxgwu4Elw"
-    }
+        title: "哈佛商业评论",
+        href: "https://www.hbrchina.org/"
+    },
 ]
